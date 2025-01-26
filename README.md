@@ -1,2 +1,3 @@
 # OCR Tess AHK
  
+So essentially this is Tesseract OCR but utilizing AHK to interact with that, the image that you have on your clipboard, and image magic you'll need tesseract to be installed somewhere in your computer it'll ask you for the path you'll also need image magic on your computer and it will ask you for the path and i'm fairly sure i make it set environment variables for both of those things and that's how it remembers where they are the next time you launch it Following that, because it looks for photos on the clipboard, that means you can use any screenshotting software that you desire as long as one of the outputs is your clipboard 

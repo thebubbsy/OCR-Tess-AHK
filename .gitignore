@@ -1,0 +1,25 @@
+# AutoHotkey compiled executables
+*.exe
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# System files
+.DS_Store
+desktop.ini
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
